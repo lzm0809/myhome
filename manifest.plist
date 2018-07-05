@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
    <key>items</key>
@@ -8,13 +7,13 @@
            <key>assets</key>
            <array>
                <dict>
-                   <key>xcar</key>
+                   <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
                    <string>http://10.20.28.189:8081/artifactory/IOS/1003/9.0.0/B9.ipa</string>
                </dict>
                <dict>
-                   <key>xcar</key>
+                   <key>kind</key>
                    <string>display-image</string>
                    <key>needs-shine</key>
                    <true/>
@@ -22,7 +21,7 @@
                    <string>http://pmodas.xcar.com.cn/images/xcar-logo.png</string>
                </dict>
                <dict>
-                   <key>xcar</key>
+                   <key>kind</key>
                    <string>full-size-image</string>
                    <key>needs-shine</key>
                    <true/>
@@ -35,7 +34,7 @@
                <string>com.ccssoft.mopclient.chongqing</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
-               <key>xcar</key>
+               <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>掌上综调</string>

@@ -31,15 +31,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ccssoft.mopclient.chongqing</string>
+               <string>pmodas.xcar.com.cn</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>9.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>掌上综调</string>
+               <string>爱卡汽车</string>
                <key>title</key>
-               <string>掌上综调</string>
+               <string>爱卡汽车</string>
            </dict>
        </dict>
    </array>
